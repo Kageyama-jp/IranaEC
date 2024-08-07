@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic"></p>
 
 <h1>🚫IranaEC🚫</h1>
-<p align="center"><img src="https://github.com/user-attachments/assets/2e8a4d21-77e7-4742-8981-3d03a55b08a5"/></p>
+<p align="center"><img src="https://github.com/Kageyama-jp/IranaEC/issues/1#issue-2452836786"/></p>
 <p align="right">～実家のやつ取り合えず出品してみた的なサイト～</p>
 
 <h2>背景</h2>
