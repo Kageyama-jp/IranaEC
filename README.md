@@ -1,6 +1,8 @@
-<p><img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
+<p><img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
+<img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
 <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
-<img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic"></p>
+<img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic">
+<img src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=sass&style=plastic"></p>
 
 <h1>🚫IranaEC🚫</h1>
 <p align="center"><img src="https://github.com/user-attachments/assets/ca332b5c-9256-4dd7-9e30-60eaa5bef5e4"/></p>
