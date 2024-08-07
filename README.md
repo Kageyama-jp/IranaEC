@@ -34,7 +34,7 @@
 
 <h2 id="process">工程</h2>
 <p>今回はウォーターフォール型モデルを参考にすることにしました。🏋️‍♂️</p>
-<p><img src="[https://dx-king.designone.jp/media/8d7xuWFWxs4WP6rt284T1kX4cKh4TekELu7I7JN1.jpeg](https://github.com/AkihiroKageyama1999/IranaEC/issues/1#issue-2451799346)" width="400"/></p>
+<p><img src="https://dx-king.designone.jp/media/8d7xuWFWxs4WP6rt284T1kX4cKh4TekELu7I7JN1.jpeg" width="400"/></p>
 
 <ul>
 <li><b>要件定義</b>: 作成物の決定、使用技術とそれに伴うライブラリの選定 <b>※現在進行中</b></li><br/>
