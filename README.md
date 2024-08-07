@@ -4,7 +4,7 @@
 
 <h1>🚫IranaEC🚫</h1>
 <p align="center"><img src="https://github.com/user-attachments/assets/ca332b5c-9256-4dd7-9e30-60eaa5bef5e4"/></p>
-<p align="right">～実家のやつ取り合えず出品してみた的なサイト～</p>
+<p align="right">～多分誰もいらないけど取り合えず出品したい的なサイト～</p>
 
 <h2>背景</h2>
 <p>困った人々を救えるようなWEBサービスを作りたいと考えていました…が大して社会貢献できそうな案は思い浮かびませんでした…！<br/>
