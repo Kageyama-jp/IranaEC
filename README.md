@@ -29,7 +29,7 @@
       <li>React:　<a href="https://github.com/alan2207/bulletproof-react">bulletproof-react</a></li>
     </ul>
   </li>
-　<li><b>使ってみたいと思ってもらえるような作品にすること</b></li>
+　<li><b>使ってみたいと思ってもらえるようなサイトにすること</b></li>
 </ul>
 
 <h2 id="process">工程</h2>
