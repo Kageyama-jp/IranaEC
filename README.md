@@ -52,7 +52,7 @@
 <p aligh="center">
     <img src="https://github.com/user-attachments/assets/09acd569-b653-4a64-9185-d184d4580fe6" width="600" />
 </p>
-
+<hr/>
 <h2>進捗</h2>
 <p>・・・ワイヤーフレーム制作中・・・</p>
 
