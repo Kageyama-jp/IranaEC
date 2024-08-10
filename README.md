@@ -58,5 +58,10 @@
   <li>AWS(デプロイ)</li>
 </ul>
 
+<h2>設計</h2>
+<p aligh="center">
+    <img src="https://github.com/user-attachments/assets/09acd569-b653-4a64-9185-d184d4580fe6" width="300" />
+</p>
+
 <h2>進捗</h2>
 <p>・・・ER-図制作中・・・</p>
