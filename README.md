@@ -10,7 +10,7 @@
 
 <h2>背景</h2>
 <p>困った人々を救えるようなWEBサービスを作りたいと考えていました…が大して社会貢献できそうな案は思い浮かびませんでした…！<br/>
-なので今回は実用性メインで考え、意外とあるようで存在しない<b>実家に眠っている</b><s>ゴミ</s><b>良い商品を売る、お譲りするためのジャンク限定フリマサイト</b>を作ることにしました。💪💪💪💪💪💪<br/>
+なので今回は実用性メインで考え、意外とあるようで存在しない<b>実家に眠っている</b><s>ゴミ</s><b>ジャンク品を欲しい方にお譲りするための交流サイト</b>を作ることにしました。💪💪💪💪💪💪<br/>
 技術スタックは一般的なレンタルサーバでも動作し、かつ迅速な開発速度を提供するフレームワークであるLaravel、そして非同期処理を実装しやすいReact/TSを採用しました。
 </p>
 
@@ -29,7 +29,7 @@
       <li>React:　<a href="https://github.com/alan2207/bulletproof-react">bulletproof-react</a></li>
     </ul>
   </li>
-　<li><b>本当に金銭取引が行えるよう作成すること</b></li>
+　<li><b>使ってみたいと思ってもらえるような作品にすること</b></li>
 </ul>
 
 <h2 id="process">工程</h2>
@@ -37,7 +37,7 @@
 <p><img src="https://dx-king.designone.jp/media/8d7xuWFWxs4WP6rt284T1kX4cKh4TekELu7I7JN1.jpeg" width="400"/></p>
 
 <ul>
-<li><b>要件定義</b>: 作成物の決定、使用技術とそれに伴うライブラリの選定 <b>※こちらに記述します</b></li><br/>
+<li><b>要件定義</b>: 作成物の決定、使用技術とそれに伴うライブラリの選定 <b>※ここに記述します</b></li><br/>
 <li><b>設計</b>: DB設計(ER-図)、ユーザーインターフェース(ワイヤーフレーム、デジタルカンプ)などの設計。</li><br/>
 <li><b>プログラミング</b>: コーディングを行い、設計に基づいてソフトウェアを構築。</li><br/>
 <li><b>テスト</b>: ソフトウェアが仕様通りに動作するかの確認。</li><br/>
@@ -50,7 +50,6 @@
 <h2>学びたい、使用したい技術※暫定</h2>
 <ul>
   <li>Laravel,React</li>
-  <li>Laravel Cashier(決済)</li>
   <li>Git Hook + husky + Eslint</li>
   <li>Makefile</li>
   <li>SEO</li>
@@ -59,9 +58,10 @@
 </ul>
 
 <h2>設計</h2>
+<h3>ER-図</h3>
 <p aligh="center">
-    <img src="https://github.com/user-attachments/assets/09acd569-b653-4a64-9185-d184d4580fe6" width="300" />
+    <img src="https://github.com/user-attachments/assets/09acd569-b653-4a64-9185-d184d4580fe6" width="600" />
 </p>
 
 <h2>進捗</h2>
-<p>・・・ER-図制作中・・・</p>
+<p>・・・ワイヤーフレーム・・・</p>
