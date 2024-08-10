@@ -6,7 +6,7 @@
 
 <h1>🚫IranaEC🚫</h1>
 <p align="center"><img src="https://github.com/user-attachments/assets/ca332b5c-9256-4dd7-9e30-60eaa5bef5e4"/></p>
-<p align="right">～「未完の美しさ、ここに集う」ジャンク専用フリマサイト～</p>
+<p align="right">～「未完の美しさ、ここに集う」ジャンク品専用交流サイト～</p>
 
 <h2>背景</h2>
 <p>困った人々を救えるようなWEBサービスを作りたいと考えていました…が大して社会貢献できそうな案は思い浮かびませんでした…！<br/>
